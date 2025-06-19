@@ -6,7 +6,7 @@ Este es un formulario de login simple hecho con HTML y CSS. Forma parte de una b
 [Ver formulario](https://ianjseijas.github.io/Login-form/)
 
 ## 📁 Estructura
-- `login.html` → Contiene el formulario
+- `index.html` → Contiene el formulario
 - `css/style.css` → Estilos aplicados al formulario
 
 ## 👨‍💻 Autor
